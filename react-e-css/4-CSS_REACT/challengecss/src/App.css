@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+
+.card-car{
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  justify-content: center;
+
+}
